@@ -1,0 +1,5 @@
+# compiled python files
+*.pyc
+
+# savegame files
+*.sav
