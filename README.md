@@ -4,7 +4,7 @@ Jules Quest
 **Description:**  
 Simple rougelike where you play as a person crawling through a dungeon, defeating monsters
 and going deeper and deeper in to the dungeon. Just making this for fun.  
-I extensively followed the tutorial found at http://roguebasin.roguelikedevelopment.org/index.php/Complete_Roguelike_Tutorial,_using_python%2Blibtcod
+I extensively followed the tutorial found at http://roguebasin.roguelikedevelopment.org/index.php?title=Complete_Roguelike_Tutorial,_using_python%2Blibtcod
 Now that I have the base game fleshed out I can start working on more interesting things.
 
 **How to Play:**  
